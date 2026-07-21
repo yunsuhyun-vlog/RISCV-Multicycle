@@ -1,0 +1,21 @@
+# Vivado Project Git Ignore
+
+# Ignore Vivado temporary and build files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+.Xil/
+
+# Ignore log and journal files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+
+# Keep project file and source code directory
+!*.xpr
+!*.srcs/
