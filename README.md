@@ -20,7 +20,8 @@
 - 주변장치(UART, FND, GPIO, GPI, GPO, RAM, ROM 등)를 **메모리와 동일한 주소 공간에 맵핑(Mapping)** 하였습니다.
 - 이를 통해 별도의 전용 I/O 명령어 없이, RISC-V의 기본 `load`/`store` 명령어만으로도 모든 주변 장치를 통합 제어할 수 있습니다.
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/90c8e1d8-c58e-4d0c-92df-b4098ae5c67a" />
+<img width="983" height="438" alt="image" src="https://github.com/user-attachments/assets/6bd0e7fe-491c-433d-9b8a-debb9c88efb3" />
+
 
 
 ---
@@ -34,7 +35,8 @@
 3. **Execute**: ALU 산술/논리 연산 및 데이터/분기 주소 계산
 4. **Mem (Memory)**: 데이터 메모리 접근 (Load/Store)
 5. **Write Back**: 연산 결과나 메모리에서 읽어온 데이터를 레지스터에 저장
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/712624be-de75-4f21-b036-0cf4fe8af15f" />
+<img width="805" height="395" alt="image" src="https://github.com/user-attachments/assets/2a8913e7-51ac-492f-b0f1-c5a8bb7d0f7e" />
+
 
 
 ---
