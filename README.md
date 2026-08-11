@@ -31,6 +31,8 @@
 3. **Execute**: ALU 산술/논리 연산 및 데이터/분기 주소 계산
 4. **Mem (Memory)**: 데이터 메모리 접근 (Load/Store)
 5. **Write Back**: 연산 결과나 메모리에서 읽어온 데이터를 레지스터에 저장
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/712624be-de75-4f21-b036-0cf4fe8af15f" />
+
 
 ---
 
