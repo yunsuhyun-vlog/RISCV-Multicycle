@@ -59,7 +59,6 @@
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0b1e25ec-1aa5-4690-9dfe-44a07b3c615b" />
 
 - **분석 결과**: Multi-cycle FSM 도입을 통해 명령어 처리 단계를 분할함으로써, 불필요한 회로의 동작이 줄어들어 **전체적인 Switching Power(Dynamic Power)가 급감**하는 효과를 달성했습니다.
-- 
 
 ---
 
