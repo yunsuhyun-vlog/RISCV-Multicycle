@@ -20,6 +20,9 @@
 - 주변장치(UART, FND, GPIO, GPI, GPO, RAM, ROM 등)를 **메모리와 동일한 주소 공간에 맵핑(Mapping)** 하였습니다.
 - 이를 통해 별도의 전용 I/O 명령어 없이, RISC-V의 기본 `load`/`store` 명령어만으로도 모든 주변 장치를 통합 제어할 수 있습니다.
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/90c8e1d8-c58e-4d0c-92df-b4098ae5c67a" />
+
+
 ---
 
 ## ⚙️ Multi-Cycle 프로세서 설계 (Instruction Execution Stage)
